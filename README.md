@@ -6,6 +6,21 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Contributors](https://img.shields.io/badge/Contributors-4-orange.svg)
 
+
+--- 
+<p align="center">
+  <img src="assets/images/tp1.png" width="150">
+</p>
+
+<p align="center">
+  <img src="assets/images/photo2.png" width="150">
+</p>
+
+<p align="center">
+  <img src="assets/images/photo3.png" width="150">
+</p>
+
+
 ## 🎯 Description du projet
 
 Ce projet a été développé dans le cadre de l’activité pédagogique **Tests unitaires d’une application ReactJS**.  
