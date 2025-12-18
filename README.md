@@ -88,13 +88,13 @@ npm install
 npm start
 ```
 
-## 🧪 Tests
+## 🧪 Tests 
 
 ```bash
 npm test
 npm test -- --coverage
 ```
 
-## 📄 Licence
+## 📄 Licence     
 
 MIT
