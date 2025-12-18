@@ -95,6 +95,6 @@ npm test
 npm test -- --coverage
 ```
 
-## 📄 Licence
+## 📄 Licence     
 
 MIT
