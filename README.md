@@ -29,6 +29,12 @@ Il met en œuvre une application React consommant une API REST externe (Fake Sto
 | Marouane Radi | Développeur | Service API, configuration des tests |
 | Ayoub Aguezar | Développeur | Documentation, CI/CD |
 
+--- 
+<p align="center">
+  <img src="assets/images/pictureOfUs.jpge" width="600">
+</p>
+
+
 ## 🚀 Fonctionnalités
 
 - Consommation d’API REST avec `fetch`
