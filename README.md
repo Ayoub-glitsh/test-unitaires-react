@@ -9,15 +9,15 @@
 
 --- 
 <p align="center">
-  <img src="assets/images/tp1.png" width="150">
+  <img src="assets/images/tp01.png" >
 </p>
 
 <p align="center">
-  <img src="assets/images/photo2.png" width="150">
+  <img src="assets/images/tp02.png" >
 </p>
 
 <p align="center">
-  <img src="assets/images/photo3.png" width="150">
+  <img src="assets/images/Tp03.png" >
 </p>
 
 
